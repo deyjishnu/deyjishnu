@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deyjishnu
 - 👀 I’m interested in Flutter, Java, Cloud Computing
-- 🌱 I’m currently learning Flutter and Azure DevOps
+- 🌱 I’m currently learning JavaScript, TypeScript, Angular and Machine Learning
 - 💞️ I’m looking to collaborate on Flutter and Java projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deyjishnu/)
 
